@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spputnik&label=Profile%20views&color=0e75b6&style=flat" alt="spputnik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spputnik" alt="spputnik" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/s___sputnik" target="blank"><img src="https://img.shields.io/twitter/follow/s___sputnik?logo=twitter&style=for-the-badge" alt="s___sputnik" /></a> </p>
-
 - I'm a Computer Science Student at [1337](https://1337.ma/en/)
 
 - 🌱 I’m currently learning **Back-End Web Development**
