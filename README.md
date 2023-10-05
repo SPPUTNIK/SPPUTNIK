@@ -5,7 +5,7 @@
 
 - I'm a Computer Science Student at [1337](https://1337.ma/en/)
 
-- 🌱 I’m currently learning **Back-End Web Development**
+- 🌱 I’m currently learning **Front-End Web Development**
 
 - I'm currently focusing on project **ft_transcendence**
 
